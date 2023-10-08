@@ -18,9 +18,9 @@ function App() {
             alt="Imagen NFT"
           />
         </div>
-        <p className="text-white text-[21px] font-normal pt-[22px] text-left cursor-pointer [letter-spacing:0.8px] hover:text-primary-cyan">
+        <h1 className="text-white text-[21px] font-normal pt-[22px] text-left cursor-pointer [letter-spacing:0.8px] hover:text-primary-cyan">
           Equilibrium #3429
-        </p>
+        </h1>
         <p className="text-left text-primary-soft font-light text-lg pt-[13px] ">
           Our Equilibrium collection promotes balance and calm.
         </p>
